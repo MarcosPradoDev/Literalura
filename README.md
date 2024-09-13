@@ -28,4 +28,4 @@ Durante o desenvolvimento do projeto foi utilizado como dependência o Srping Da
 - Laços de repetição
 - Tratativas de Erros
 - JSON
-- Srping Boot
+- Spring Boot
