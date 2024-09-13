@@ -19,7 +19,7 @@ nosso projeto consiste em uma livraria, na qual nosso público irá buscar por d
 para o mesmo, como proposta do desafio além do título nosso aplicação deve fornecer para o leitor :
 Autor, Data de Nascimento do Autor, Data de Falecimento do Autor, Genêro, Idioma e Quantidade 
 de Downloads.
-Durante o desenvolvimento do projeto foi utilizado como dependência o Srping Data JPA, e PostgresSQL.</p>
+Durante o desenvolvimento do projeto foi utilizado como dependência o Spring Data JPA, e PostgresSQL.</p>
 
 ## Temas abordados
 - Programação orientada a objetos
